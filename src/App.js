@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.  This has changed. MASTERdos
+          Edit <code>src/App.js</code> and save to reload.  This has changed. Pull request
         </p>
         <a
           className="App-link"
