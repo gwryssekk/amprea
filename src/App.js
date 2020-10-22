@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.  This has changed. Pull request.  Please
+          Edit <code>src/App.js</code> and save to reload.  This has changed. Pull request.  Please.  Redeploy.
         </p>
         <a
           className="App-link"
